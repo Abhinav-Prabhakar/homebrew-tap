@@ -7,7 +7,7 @@ cask "keychange" do
   desc "MIDI text instrument — play your words loud"
   homepage "https://github.com/Abhinav-Prabhakar/KeyChange"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "KeyChange.app"
