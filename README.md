@@ -17,6 +17,16 @@ brew tap Abhinav-Prabhakar/tap
 | `littleclaw` | A terminal-native AI companion. |
 | `unstop` | Explore Unstop hackathons from the terminal. |
 
+## Casks
+
+| Cask | What it is |
+|---|---|
+| `keychange` | A MIDI text instrument. Play your words loud. |
+
+```sh
+brew install --cask Abhinav-Prabhakar/tap/keychange
+```
+
 Install any of them:
 
 ```sh
