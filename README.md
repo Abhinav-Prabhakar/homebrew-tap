@@ -23,7 +23,10 @@ brew tap Abhinav-Prabhakar/tap
 |---|---|
 | `keychange` | A MIDI text instrument. Play your words loud. |
 
+Homebrew treats third-party taps as untrusted until you say otherwise:
+
 ```sh
+brew trust Abhinav-Prabhakar/tap
 brew install --cask Abhinav-Prabhakar/tap/keychange
 ```
 
