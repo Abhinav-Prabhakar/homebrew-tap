@@ -1,6 +1,6 @@
 cask "keychange" do
-  version "0.5.0"
-  sha256 "3b5e0722ec3bc6269d76f6f055dd1bb00c95ff735f3d4ddf2934d4ccaa732487"
+  version "0.6.0"
+  sha256 "871c125fdbb8411e6b6d13bdbb7e775bf12e82bf3c90fa395422beeb7ec22d3d"
 
   url "https://github.com/Abhinav-Prabhakar/KeyChange/releases/download/v#{version}/KeyChange-#{version}.dmg"
   name "KeyChange"
